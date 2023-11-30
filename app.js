@@ -10,4 +10,4 @@ const itervals = setInterval(function () {
     for (let letter of letters) {
         letter.style.color = random.RGB();
     }
-}, 2000);
+}, 1000);
